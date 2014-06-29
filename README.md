@@ -15,7 +15,7 @@ sudo make install
 
 ```
 
-Connect your Linksys AE6000 driver.. 
+Connect Linksys AE6000 Wifi Dongle to your PC / Laptop.. 
 
 For other chipsets some files need modification including the following
 
